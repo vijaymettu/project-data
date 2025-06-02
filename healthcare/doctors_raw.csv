@@ -1,0 +1,1001 @@
+doctor_id,name,gender,specialization,hospital_id,city
+D1000,Richard Duncan,M,Pediatrician,H001,New York
+D1001,Paul Rodgers,M,Cardiologist,H002,New York
+D1002,Joyce Miller,F,Orthopedic,H002,New York
+D1003,Kathleen Harris,F,General Physician,H001,Boston
+D1004,Richard Morris,M,Oncologist,H002,New York
+D1005,Joshua Gallagher,M,Oncologist,H001,Boston
+D1006,Jaime Pearson,M,Neurologist,H001,New York
+D1007,Kyle Jones,M,Oncologist,H001,New York
+D1008,Amy Lambert,F,General Physician,H001,New York
+D1009,Patrick Carson,M,Neurologist,H002,New York
+D1010,Joseph Sanchez,M,Orthopedic,H002,New York
+D1011,Jessica Huff DDS,F,Oncologist,H002,New York
+D1012,Ryan Andrews,M,Oncologist,H001,New York
+D1013,Michelle King,F,Oncologist,H001,New York
+D1014,David Sanders,M,Neurologist,H001,Boston
+D1015,Billy Crane,M,Oncologist,H002,New York
+D1016,Alexander Morris,M,Orthopedic,H002,Boston
+D1017,Diana Dean,F,Oncologist,H001,Boston
+D1018,Deborah Simpson DVM,F,Neurologist,H001,New York
+D1019,Allen Jackson,M,General Physician,H001,New York
+D1020,Catherine Beasley,F,Neurologist,H001,New York
+D1021,Brenda Hensley,F,Pediatrician,H002,Boston
+D1022,Mr. Adam Gomez,M,Oncologist,H002,New York
+D1023,Danielle Hudson,F,Cardiologist,H002,New York
+D1024,Robert Burton,M,Pediatrician,H001,Boston
+D1025,Erika Odonnell,F,Pediatrician,H002,Boston
+D1026,Brent Aguirre,M,Orthopedic,H001,Boston
+D1027,Ariana Kennedy,F,Neurologist,H001,New York
+D1028,Michael Rodriguez,M,Oncologist,H001,Boston
+D1029,Christina Spencer,F,Orthopedic,H001,New York
+D1030,Lisa Hill,F,Neurologist,H002,New York
+D1031,David Gibson,M,Oncologist,H001,New York
+D1032,Brian Walsh,M,Pediatrician,H002,Boston
+D1033,Kathleen Eaton,F,Oncologist,H002,Boston
+D1034,Cole Fisher,M,Neurologist,H001,New York
+D1035,Veronica Fisher,F,Oncologist,H002,New York
+D1036,Daniel Gonzalez,M,Pediatrician,H001,New York
+D1037,John Jackson,M,Orthopedic,H002,Boston
+D1038,Linda Giles,F,Orthopedic,H002,Boston
+D1039,Paul Brady,M,Oncologist,H002,New York
+D1040,John Freeman,M,Neurologist,H001,New York
+D1041,Joshua Griffin,M,Orthopedic,H002,New York
+D1042,Anna Lambert,F,Orthopedic,H002,New York
+D1043,Patrick Cameron,M,Pediatrician,H001,New York
+D1044,Kyle Kirby,M,Orthopedic,H001,Boston
+D1045,Kylie Bell,F,Neurologist,H002,New York
+D1046,Brian James,M,Pediatrician,H002,New York
+D1047,Stephanie Hill,F,General Physician,H001,New York
+D1048,Barbara Guerrero,F,Oncologist,H001,Boston
+D1049,Juan Johns,M,Neurologist,H001,New York
+D1050,Michael Moran,M,Neurologist,H001,New York
+D1051,David Velasquez,M,Orthopedic,H002,Boston
+D1052,Sheila Adams,F,General Physician,H002,Boston
+D1053,Anthony Brown,M,General Physician,H001,Boston
+D1054,Kimberly Anderson,F,Cardiologist,H001,Boston
+D1055,Jerry Potts,M,Orthopedic,H001,New York
+D1056,Lisa Watson,F,Pediatrician,H002,New York
+D1057,Carmen Allison,F,Oncologist,H002,New York
+D1058,Melissa Jensen,F,Orthopedic,H001,Boston
+D1059,Thomas Hammond,M,Oncologist,H002,New York
+D1060,Vickie Shaw,F,Orthopedic,H002,Boston
+D1061,Abigail Carlson,F,Oncologist,H001,Boston
+D1062,James Keller,M,Orthopedic,H002,New York
+D1063,Christina Todd,F,Cardiologist,H001,New York
+D1064,Michael Roy,M,General Physician,H002,Boston
+D1065,Nicole Mcdaniel,F,Neurologist,H002,New York
+D1066,Tyler Bowman,M,Cardiologist,H001,Boston
+D1067,Mr. Jimmy Weaver,M,Neurologist,H001,New York
+D1068,Charles Romero,M,Pediatrician,H001,New York
+D1069,Ronald Griffith,M,Neurologist,H001,Boston
+D1070,Mary Durham,F,General Physician,H002,Boston
+D1071,Mrs. Sydney Lopez,F,Cardiologist,H002,Boston
+D1072,Taylor Bass,M,Orthopedic,H001,New York
+D1073,Nancy Hanson,F,Neurologist,H002,Boston
+D1074,Robert Davis,M,Oncologist,H001,Boston
+D1075,Elaine Guzman,F,Orthopedic,H002,New York
+D1076,David Hansen,M,Pediatrician,H001,New York
+D1077,Katie Kim,F,Orthopedic,H001,New York
+D1078,Karen Hill,F,Pediatrician,H002,Boston
+D1079,Garrett Newman MD,M,General Physician,H001,Boston
+D1080,Casey Casey,M,Oncologist,H002,Boston
+D1081,Dr. Nancy Torres,F,Neurologist,H001,Boston
+D1082,Morgan Malone,F,Cardiologist,H001,Boston
+D1083,Eric Walker,M,Oncologist,H001,New York
+D1084,Megan Perez,F,Pediatrician,H002,Boston
+D1085,Robert Campbell,M,General Physician,H002,New York
+D1086,Lisa Grant,F,Pediatrician,H001,Boston
+D1087,Carl Cannon,M,Pediatrician,H001,Boston
+D1088,Tracey Brown,F,Cardiologist,H001,Boston
+D1089,Casey Peterson,F,Neurologist,H001,Boston
+D1090,Erica Turner,F,Pediatrician,H002,Boston
+D1091,Michael Patel,M,General Physician,H001,Boston
+D1092,Jessica Cox,F,Orthopedic,H002,Boston
+D1093,Rachel Gonzales,F,Orthopedic,H002,New York
+D1094,George Edwards,M,Cardiologist,H002,Boston
+D1095,Jesse Miller,M,General Physician,H002,New York
+D1096,Kevin Smith,M,Neurologist,H001,Boston
+D1097,Maurice Martin,M,Neurologist,H001,New York
+D1098,Ethan Reed,M,Pediatrician,H001,Boston
+D1099,Jeremy Cordova,M,Pediatrician,H001,Boston
+D1100,Renee Martinez,F,Cardiologist,H002,Boston
+D1101,Jennifer Jones,F,Orthopedic,H001,New York
+D1102,Allen Williams,M,Pediatrician,H001,New York
+D1103,Yvonne Johnston,F,Orthopedic,H001,Boston
+D1104,Rachel Werner,F,General Physician,H002,Boston
+D1105,Michelle Harris,F,General Physician,H001,New York
+D1106,Gabriel Wall,M,General Physician,H001,New York
+D1107,Joan Young MD,F,Neurologist,H002,New York
+D1108,Scott Woods,M,Pediatrician,H001,New York
+D1109,Regina Lawrence,F,Oncologist,H001,Boston
+D1110,Stephen Rivera,M,Pediatrician,H002,New York
+D1111,Patricia Foster,F,Cardiologist,H002,New York
+D1112,Darryl Maldonado,M,Neurologist,H001,New York
+D1113,Debra Sims,F,Cardiologist,H002,New York
+D1114,Suzanne Kelley,F,Orthopedic,H002,New York
+D1115,Heather Rowe,F,Oncologist,H001,New York
+D1116,Meredith Myers,F,Oncologist,H002,New York
+D1117,Mr. Wyatt Miller,M,Neurologist,H001,Boston
+D1118,Phyllis Anderson,F,Orthopedic,H002,New York
+D1119,Tyler Haynes,M,Oncologist,H002,New York
+D1120,Alexander Perez,M,Neurologist,H001,Boston
+D1121,Amy Anderson,F,Orthopedic,H002,New York
+D1122,Casey Shepherd,F,Orthopedic,H002,Boston
+D1123,Jillian Martinez,F,Neurologist,H002,Boston
+D1124,Nicole Ayala,F,Neurologist,H001,New York
+D1125,Lori Clark,F,Oncologist,H001,Boston
+D1126,Breanna Huber,F,Cardiologist,H001,Boston
+D1127,Melissa Crane,F,Oncologist,H001,Boston
+D1128,Heather Jones,F,Pediatrician,H002,Boston
+D1129,Michelle Brown,F,Oncologist,H002,New York
+D1130,David Hardy,M,Neurologist,H001,New York
+D1131,Stuart Russell,M,Cardiologist,H002,New York
+D1132,John Sharp,M,Oncologist,H002,New York
+D1133,Whitney Garcia,F,Neurologist,H002,New York
+D1134,Veronica Gonzalez,F,Orthopedic,H001,New York
+D1135,William Case,M,Orthopedic,H002,New York
+D1136,Sheila Sanford,F,Cardiologist,H002,Boston
+D1137,Sierra Lopez,F,Oncologist,H002,New York
+D1138,Gloria Cox,F,Oncologist,H002,Boston
+D1139,Natasha Koch,F,Cardiologist,H002,Boston
+D1140,Brandon Byrd,M,Orthopedic,H001,Boston
+D1141,Aaron Nielsen,M,Oncologist,H002,New York
+D1142,Amanda Jones,F,Neurologist,H001,New York
+D1143,Laura Lawrence,F,General Physician,H001,New York
+D1144,Angela Russell,F,Neurologist,H002,New York
+D1145,Rodney Erickson,M,Pediatrician,H001,New York
+D1146,Robert Robinson,M,General Physician,H001,New York
+D1147,James Gray DDS,M,Neurologist,H002,New York
+D1148,Kyle Velez,M,Oncologist,H002,Boston
+D1149,Victor Allen,M,Oncologist,H001,Boston
+D1150,Tina Braun,F,Orthopedic,H002,Boston
+D1151,Linda Davis,F,General Physician,H002,New York
+D1152,Amanda Moore,F,General Physician,H002,Boston
+D1153,James Adams,M,Oncologist,H002,New York
+D1154,Chad Buchanan,M,Pediatrician,H002,Boston
+D1155,Pamela Dominguez,F,General Physician,H002,Boston
+D1156,William Moody,M,Cardiologist,H002,New York
+D1157,Stacy Gonzalez,F,Neurologist,H001,Boston
+D1158,Travis James,M,Orthopedic,H001,New York
+D1159,Teresa Ingram,F,General Physician,H001,New York
+D1160,Charles Hall,M,Orthopedic,H002,New York
+D1161,Tina Garcia,F,Oncologist,H002,Boston
+D1162,Thomas Chandler,M,Pediatrician,H001,Boston
+D1163,Justin Watkins,M,Cardiologist,H001,New York
+D1164,James Davis,M,Neurologist,H002,Boston
+D1165,Rachel Moore,F,General Physician,H001,Boston
+D1166,Matthew Martinez,M,Cardiologist,H001,Boston
+D1167,Caroline Arnold,F,Pediatrician,H002,Boston
+D1168,Isaac Carr,M,Pediatrician,H001,New York
+D1169,Steven Yates,M,General Physician,H001,Boston
+D1170,Michelle Wolf,F,General Physician,H002,Boston
+D1171,James Schultz,M,Orthopedic,H002,Boston
+D1172,Brandon Hendrix,M,General Physician,H001,Boston
+D1173,Amber Nguyen,F,Oncologist,H001,New York
+D1174,Jennifer Page,F,Orthopedic,H001,New York
+D1175,Adam Nguyen,M,General Physician,H001,Boston
+D1176,Omar Sandoval,M,Cardiologist,H002,New York
+D1177,Christopher Lawrence,M,Neurologist,H002,Boston
+D1178,Terri Parrish,F,Pediatrician,H001,New York
+D1179,Dana Parsons,F,General Physician,H002,New York
+D1180,Jimmy Warner,M,Pediatrician,H002,New York
+D1181,Erica Hernandez,F,Orthopedic,H002,New York
+D1182,Anna Taylor,F,Oncologist,H001,Boston
+D1183,Crystal Peterson,F,Orthopedic,H001,Boston
+D1184,Scott Anderson,M,Orthopedic,H002,New York
+D1185,Dr. Jason Sandoval,M,Orthopedic,H001,Boston
+D1186,Victoria Horn,F,Pediatrician,H002,Boston
+D1187,Ricky Richardson,M,Neurologist,H001,New York
+D1188,Kelsey Noble,F,Neurologist,H002,Boston
+D1189,Matthew Jones,M,Oncologist,H001,New York
+D1190,Aaron Coleman,M,Cardiologist,H001,Boston
+D1191,Melissa Allen,F,General Physician,H001,New York
+D1192,Nicholas Mack,M,Cardiologist,H001,New York
+D1193,Kevin Clarke,M,Oncologist,H002,New York
+D1194,Angela Davis,F,Neurologist,H002,Boston
+D1195,Eugene Anderson,M,Pediatrician,H001,Boston
+D1196,Robert Torres,M,Neurologist,H001,New York
+D1197,Jennifer Edwards,F,Oncologist,H001,Boston
+D1198,Mrs. Janet Smith,F,General Physician,H001,New York
+D1199,Matthew Mayer,M,Pediatrician,H001,Boston
+D1200,John Smith,M,Orthopedic,H002,Boston
+D1201,Daniel Wright,M,General Physician,H001,New York
+D1202,John Miller,M,Pediatrician,H002,Boston
+D1203,Sherry Collins,F,Orthopedic,H001,Boston
+D1204,Heather Park,F,Orthopedic,H001,New York
+D1205,Matthew Ryan,M,Oncologist,H002,Boston
+D1206,Brendan Richards,M,Neurologist,H002,New York
+D1207,Michael Johnson,M,Orthopedic,H002,Boston
+D1208,Casey Flores,M,Cardiologist,H002,New York
+D1209,Anthony Mejia,M,Oncologist,H002,Boston
+D1210,Casey Morris,F,Cardiologist,H002,Boston
+D1211,Natasha Howard,F,Neurologist,H002,Boston
+D1212,Russell Dawson,M,Neurologist,H001,New York
+D1213,Ricky Griffin,M,Pediatrician,H002,New York
+D1214,Laura Tucker,F,General Physician,H001,New York
+D1215,Gerald Martin,M,Oncologist,H001,New York
+D1216,Brian Miller,M,Cardiologist,H001,New York
+D1217,Whitney Daniels,F,Orthopedic,H001,New York
+D1218,Ann Clark,F,Pediatrician,H001,Boston
+D1219,Matthew Alexander,M,Cardiologist,H002,New York
+D1220,Eric Williams,M,General Physician,H002,Boston
+D1221,Mrs. Danielle Morales,F,Pediatrician,H001,Boston
+D1222,Paul Williams,M,Oncologist,H001,Boston
+D1223,Joseph Hill,M,Orthopedic,H001,New York
+D1224,Catherine Sellers,F,Orthopedic,H001,Boston
+D1225,Anthony Evans,M,General Physician,H002,New York
+D1226,Julie Clark,F,Cardiologist,H002,New York
+D1227,Michael Miller,M,General Physician,H001,Boston
+D1228,Elizabeth Tyler,F,Neurologist,H001,Boston
+D1229,Jared Conley,M,Cardiologist,H001,New York
+D1230,Samantha Elliott,F,Pediatrician,H002,New York
+D1231,Gary Baldwin,M,Neurologist,H002,New York
+D1232,Catherine Mcneil,F,Pediatrician,H002,Boston
+D1233,William Sanchez,M,Oncologist,H001,Boston
+D1234,Tanya Campbell,F,Oncologist,H002,Boston
+D1235,Gregory Francis,M,Neurologist,H002,Boston
+D1236,Brenda Gonzalez,F,Cardiologist,H001,Boston
+D1237,David Clark,M,Neurologist,H002,New York
+D1238,Victor Pittman,M,Orthopedic,H001,New York
+D1239,Haley Spencer,F,Orthopedic,H002,Boston
+D1240,Linda Reyes,F,Cardiologist,H002,Boston
+D1241,Brandon Leon,M,Pediatrician,H002,New York
+D1242,Lisa Montoya,F,Orthopedic,H001,Boston
+D1243,Lauren Beck,F,Pediatrician,H002,New York
+D1244,Joshua Miller,M,Pediatrician,H001,New York
+D1245,Tammy Herrera,F,Orthopedic,H002,New York
+D1246,Martin Graham,M,General Physician,H002,New York
+D1247,Corey Keller,M,Pediatrician,H001,Boston
+D1248,Kathryn Galloway,F,Pediatrician,H001,Boston
+D1249,Keith Moon,M,Pediatrician,H002,Boston
+D1250,Thomas Duncan,M,General Physician,H001,Boston
+D1251,Craig Gonzalez,M,General Physician,H002,Boston
+D1252,Cynthia Perez,F,Oncologist,H001,New York
+D1253,Corey Murray,M,Oncologist,H001,Boston
+D1254,Amanda Jackson,F,Oncologist,H001,Boston
+D1255,Jordan Martin,F,Oncologist,H002,Boston
+D1256,Victor Joseph,M,General Physician,H002,New York
+D1257,Phyllis Williams,F,Oncologist,H001,Boston
+D1258,Lisa Moore,F,Pediatrician,H002,New York
+D1259,Paul Wilson,M,Oncologist,H001,New York
+D1260,William Contreras,M,Oncologist,H001,New York
+D1261,Rita Johnson,F,Orthopedic,H001,New York
+D1262,Jessica Gardner,F,Neurologist,H001,Boston
+D1263,Tracy Day,F,General Physician,H001,Boston
+D1264,Shelly Hunter,F,Orthopedic,H001,Boston
+D1265,Ryan Wu,M,General Physician,H001,Boston
+D1266,Deborah Jones,F,Orthopedic,H001,New York
+D1267,Latoya Navarro,F,Orthopedic,H001,Boston
+D1268,Matthew Hernandez,M,Orthopedic,H002,New York
+D1269,David Leon,M,Oncologist,H001,New York
+D1270,Caroline Jones,F,Oncologist,H001,New York
+D1271,Melissa Richards,F,Pediatrician,H001,New York
+D1272,Chase Vazquez Jr.,M,Neurologist,H002,Boston
+D1273,Brittany Blankenship,F,Cardiologist,H002,Boston
+D1274,Brandon Bowman,M,Orthopedic,H001,New York
+D1275,Nancy Potter,F,Orthopedic,H002,Boston
+D1276,Paul Greer,M,General Physician,H002,Boston
+D1277,Mrs. Mindy Fisher,F,Orthopedic,H002,Boston
+D1278,Heather Webster,F,Orthopedic,H001,Boston
+D1279,Jimmy Meadows,M,Cardiologist,H001,New York
+D1280,Peter Johnson,M,General Physician,H001,Boston
+D1281,Roberto Becker,M,Cardiologist,H001,New York
+D1282,Toni Oneal,F,Pediatrician,H002,New York
+D1283,Molly Blankenship,F,Pediatrician,H002,Boston
+D1284,Christopher Jones,M,Oncologist,H001,New York
+D1285,Oscar Clark,M,Oncologist,H002,New York
+D1286,Bethany Thompson,F,Orthopedic,H001,New York
+D1287,Frank Gonzalez,M,Pediatrician,H001,New York
+D1288,Kevin Gill,M,General Physician,H001,New York
+D1289,Louis Martinez,M,Oncologist,H002,New York
+D1290,Edward Morales,M,Neurologist,H002,Boston
+D1291,Charles Wheeler,M,Pediatrician,H002,Boston
+D1292,Ian Fields,M,Neurologist,H001,New York
+D1293,Chad Patel,M,Orthopedic,H002,New York
+D1294,Adam Mcfarland,M,Orthopedic,H002,New York
+D1295,Evan Anderson,M,Neurologist,H002,New York
+D1296,Mr. Anthony Parks,M,General Physician,H001,Boston
+D1297,Greg Gardner,M,Orthopedic,H002,New York
+D1298,Natalie Walton,F,Pediatrician,H001,New York
+D1299,Lauren Golden,F,Neurologist,H002,New York
+D1300,Cesar Wagner,M,Pediatrician,H001,New York
+D1301,Ernest Reynolds,M,Neurologist,H002,Boston
+D1302,Michael Davis,M,General Physician,H001,New York
+D1303,Rebecca Carpenter,F,Pediatrician,H001,New York
+D1304,Deanna Torres,F,General Physician,H001,New York
+D1305,Mary Ward,F,Orthopedic,H002,New York
+D1306,Robin Sanders,F,Orthopedic,H002,New York
+D1307,Austin Moore,M,Pediatrician,H001,New York
+D1308,Marcus Black,M,Pediatrician,H001,New York
+D1309,Michael Friedman,M,General Physician,H002,New York
+D1310,Victoria Wheeler,F,Oncologist,H002,Boston
+D1311,Scott Duncan,M,Cardiologist,H001,Boston
+D1312,Nathan Robinson,M,Cardiologist,H001,New York
+D1313,Paul Blair,M,Oncologist,H002,New York
+D1314,Richard Matthews,M,Orthopedic,H002,New York
+D1315,Erin Taylor,F,General Physician,H002,Boston
+D1316,Alison Deleon,F,Pediatrician,H002,Boston
+D1317,Joshua Wall,M,Oncologist,H001,New York
+D1318,Amanda Taylor,F,Cardiologist,H002,Boston
+D1319,Barbara Clarke,F,Neurologist,H002,New York
+D1320,Greg Henderson,M,General Physician,H001,Boston
+D1321,Michael Valenzuela,M,General Physician,H001,New York
+D1322,Allen Carter DDS,M,Pediatrician,H002,Boston
+D1323,Alexandra Hansen,F,General Physician,H001,New York
+D1324,Alexis Stevens MD,F,Cardiologist,H002,New York
+D1325,Natalie Brandt,F,Cardiologist,H002,Boston
+D1326,Kevin Cole,M,Cardiologist,H001,New York
+D1327,Jessica Shaffer,F,Cardiologist,H001,Boston
+D1328,Rebecca Huff,F,Pediatrician,H001,Boston
+D1329,Frank Sutton,M,General Physician,H002,New York
+D1330,Luke Perkins,M,Cardiologist,H001,New York
+D1331,Marco Reyes,M,Oncologist,H001,New York
+D1332,Steve Crawford,M,Pediatrician,H002,Boston
+D1333,Samantha Hamilton,F,General Physician,H001,New York
+D1334,David Fletcher,M,Oncologist,H001,Boston
+D1335,Dana Rosario,F,Pediatrician,H002,Boston
+D1336,Rebecca Walker,F,Cardiologist,H002,New York
+D1337,Jacob Franklin,M,Neurologist,H002,Boston
+D1338,Vanessa Griffin,F,Oncologist,H001,Boston
+D1339,Tammy Pace,F,Orthopedic,H001,New York
+D1340,Gerald Tucker II,M,Neurologist,H002,New York
+D1341,Kevin Butler,M,Cardiologist,H001,Boston
+D1342,Jaime Smith,F,Pediatrician,H002,New York
+D1343,Shelby Nelson,F,Orthopedic,H002,Boston
+D1344,Alan Vasquez,M,Cardiologist,H002,New York
+D1345,Carla Greene,F,Neurologist,H002,Boston
+D1346,Patricia Brown,F,Neurologist,H002,Boston
+D1347,Robin Francis,F,Pediatrician,H001,New York
+D1348,Suzanne Smith,F,Oncologist,H002,Boston
+D1349,Anna Quinn,F,Cardiologist,H002,Boston
+D1350,Melinda Jacobson,F,Orthopedic,H002,Boston
+D1351,Kristen Gray,F,Orthopedic,H002,Boston
+D1352,Nancy Carpenter,F,General Physician,H002,Boston
+D1353,Vanessa Fox,F,Neurologist,H001,New York
+D1354,Angela Gutierrez,F,General Physician,H002,Boston
+D1355,Jonathan Brown,M,Cardiologist,H002,Boston
+D1356,Stacy Williams,F,Cardiologist,H001,Boston
+D1357,Jeanne Kelley,F,General Physician,H002,New York
+D1358,Lori Monroe,F,Orthopedic,H001,Boston
+D1359,Mario Garza,M,Oncologist,H002,New York
+D1360,Alexander Mitchell,M,Pediatrician,H002,Boston
+D1361,Ashley Mcdaniel,F,Pediatrician,H002,Boston
+D1362,Jesse Elliott,M,Orthopedic,H001,New York
+D1363,Christian Gonzalez,M,Orthopedic,H001,New York
+D1364,Nathan Mason,M,Pediatrician,H002,Boston
+D1365,Travis Thompson,M,Orthopedic,H001,New York
+D1366,Kimberly House,F,Cardiologist,H002,Boston
+D1367,Ronald Harrison,M,Oncologist,H001,Boston
+D1368,Hunter Goodwin,M,Oncologist,H001,New York
+D1369,Mr. Jacob Williams,M,Pediatrician,H001,Boston
+D1370,Leonard Flores,M,Pediatrician,H002,New York
+D1371,Rodney Horne,M,Oncologist,H001,Boston
+D1372,Susan Reyes,F,Oncologist,H001,New York
+D1373,Austin Wright,M,Cardiologist,H002,New York
+D1374,Alexandra Gonzalez,F,Neurologist,H002,New York
+D1375,Laura Smith,F,Oncologist,H002,Boston
+D1376,Brian Little,M,Neurologist,H002,Boston
+D1377,Robert Lewis,M,Neurologist,H001,Boston
+D1378,Nancy Ferguson,F,General Physician,H001,Boston
+D1379,William Bailey,M,Pediatrician,H001,New York
+D1380,Wendy Villegas,F,Neurologist,H002,New York
+D1381,Gregory Barker,M,General Physician,H001,New York
+D1382,Austin Mcbride,M,Cardiologist,H002,Boston
+D1383,Alexander Jordan,M,Cardiologist,H002,Boston
+D1384,Robin Long,F,General Physician,H001,Boston
+D1385,Lynn Wilson,F,Neurologist,H001,Boston
+D1386,John Jackson,M,General Physician,H002,Boston
+D1387,Ernest Thompson,M,Orthopedic,H002,New York
+D1388,James Wood,M,General Physician,H001,Boston
+D1389,Megan Grant,F,Pediatrician,H002,Boston
+D1390,James Williams,M,Neurologist,H002,Boston
+D1391,Teresa Murphy,F,Cardiologist,H001,New York
+D1392,Jason Robinson,M,Neurologist,H001,Boston
+D1393,Rebecca Moore,F,General Physician,H002,Boston
+D1394,Stephanie Mills,F,Cardiologist,H001,Boston
+D1395,Brittney Melton,F,Orthopedic,H002,Boston
+D1396,Jason Armstrong,M,Pediatrician,H002,Boston
+D1397,Lisa Young,F,Orthopedic,H001,Boston
+D1398,James Hall,M,Pediatrician,H002,Boston
+D1399,Joseph Lopez,M,Oncologist,H002,New York
+D1400,David Anderson MD,M,Pediatrician,H002,New York
+D1401,Christina Young,F,Oncologist,H001,Boston
+D1402,Melinda Davis,F,Pediatrician,H002,Boston
+D1403,Christine Shelton,F,Neurologist,H002,Boston
+D1404,Jamie Alvarez,F,Cardiologist,H001,Boston
+D1405,Joseph Barber,M,Pediatrician,H001,Boston
+D1406,Mrs. Margaret Wilson MD,F,Pediatrician,H001,New York
+D1407,Kimberly Martinez,F,Neurologist,H001,Boston
+D1408,Briana Fernandez,F,Orthopedic,H002,New York
+D1409,Christopher Chang,M,Neurologist,H002,New York
+D1410,Alexandra Smith,F,Cardiologist,H001,New York
+D1411,Martha Richards,F,Pediatrician,H001,New York
+D1412,Justin White,M,Cardiologist,H001,Boston
+D1413,Nicholas Johnson,M,Cardiologist,H002,New York
+D1414,Marilyn Taylor,F,General Physician,H002,Boston
+D1415,James Williams,M,Orthopedic,H002,New York
+D1416,Shannon Gallagher,F,Pediatrician,H001,New York
+D1417,Danielle Baird,F,Pediatrician,H001,New York
+D1418,Judy Deleon,F,Pediatrician,H001,New York
+D1419,Sean Carney,M,Pediatrician,H001,Boston
+D1420,Jeremy Bright,M,Orthopedic,H001,Boston
+D1421,William Davis,M,Orthopedic,H001,New York
+D1422,Kimberly Robertson,F,Neurologist,H002,Boston
+D1423,Tiffany Riddle,F,Cardiologist,H001,New York
+D1424,Eddie Edwards,M,Orthopedic,H002,New York
+D1425,Michael Brown,M,Pediatrician,H002,Boston
+D1426,Melinda Hill,F,Oncologist,H001,New York
+D1427,Eric Wise,M,Oncologist,H001,New York
+D1428,James Davis,M,Oncologist,H001,New York
+D1429,Ronnie Hodges,M,Cardiologist,H002,Boston
+D1430,Courtney White,F,Cardiologist,H002,New York
+D1431,Meghan Hayes,F,Oncologist,H002,Boston
+D1432,Sheila Murphy,F,Oncologist,H002,New York
+D1433,Victoria Smith,F,Neurologist,H001,Boston
+D1434,Courtney Parsons,F,Neurologist,H002,New York
+D1435,Danielle Smith,F,General Physician,H001,Boston
+D1436,Andrew Shepard,M,General Physician,H002,New York
+D1437,Angelica Campbell,F,Oncologist,H001,Boston
+D1438,William Hall,M,Cardiologist,H001,New York
+D1439,John Sanchez,M,Pediatrician,H002,New York
+D1440,Kayla Russell DVM,F,Pediatrician,H002,New York
+D1441,Brooke Orr,F,Orthopedic,H001,Boston
+D1442,Shane Moore,M,Oncologist,H002,Boston
+D1443,James Conner,M,Oncologist,H002,Boston
+D1444,Kelli Trujillo,F,Cardiologist,H002,New York
+D1445,Kelsey Small,F,Orthopedic,H001,Boston
+D1446,Jared Woods,M,Pediatrician,H002,Boston
+D1447,Meghan Monroe,F,Cardiologist,H002,New York
+D1448,Nicholas Jackson,M,Oncologist,H001,New York
+D1449,Rebecca Jensen,F,General Physician,H002,New York
+D1450,Joyce Williamson,F,Cardiologist,H002,New York
+D1451,Robert Lopez,M,General Physician,H002,New York
+D1452,Keith Lawrence,M,Orthopedic,H002,New York
+D1453,Travis Mitchell,M,Cardiologist,H001,Boston
+D1454,Kathleen Costa,F,Orthopedic,H001,Boston
+D1455,Leah Bowman,F,Cardiologist,H001,Boston
+D1456,Sarah Norris,F,Neurologist,H001,Boston
+D1457,Douglas Wright,M,Oncologist,H002,New York
+D1458,John Juarez,M,Oncologist,H001,Boston
+D1459,James Curry,M,Pediatrician,H001,Boston
+D1460,Christopher Taylor,M,General Physician,H001,New York
+D1461,Robert Little,M,Neurologist,H001,Boston
+D1462,Vanessa Holt,F,Orthopedic,H001,New York
+D1463,Valerie Wilson,F,Cardiologist,H001,Boston
+D1464,Scott Miller,M,Orthopedic,H002,Boston
+D1465,Michelle Glenn,F,General Physician,H001,New York
+D1466,Geoffrey Rocha,M,Pediatrician,H001,Boston
+D1467,Matthew Thompson,M,Orthopedic,H002,New York
+D1468,Robert Moore,M,Oncologist,H001,Boston
+D1469,Matthew Yates PhD,M,Cardiologist,H001,Boston
+D1470,Christina Valdez,F,Orthopedic,H001,New York
+D1471,Madison Chase,F,Cardiologist,H001,Boston
+D1472,Maria Moody,F,Orthopedic,H001,Boston
+D1473,Karen Moreno,F,Cardiologist,H002,Boston
+D1474,Brandon Bradley,M,Neurologist,H002,New York
+D1475,Karen Patterson,F,Pediatrician,H001,Boston
+D1476,Jennifer Cruz,F,Oncologist,H002,Boston
+D1477,William Nunez,M,Cardiologist,H001,New York
+D1478,Peter Castro,M,Pediatrician,H001,New York
+D1479,Jessica Mccormick,F,Pediatrician,H001,New York
+D1480,Douglas Woods,M,Oncologist,H002,Boston
+D1481,Keith Luna,M,Orthopedic,H001,New York
+D1482,Natasha Riley,F,Oncologist,H001,Boston
+D1483,Mrs. Elizabeth Quinn PhD,F,Pediatrician,H001,New York
+D1484,Sarah Lee,F,Pediatrician,H002,New York
+D1485,Patricia Frazier,F,Orthopedic,H001,New York
+D1486,Ashley Singh,F,Cardiologist,H002,New York
+D1487,Brandon Myers,M,Orthopedic,H002,New York
+D1488,Gina Lopez,F,Neurologist,H002,Boston
+D1489,Phyllis Powell,F,Oncologist,H002,New York
+D1490,Ricky Lane,M,Orthopedic,H001,New York
+D1491,Jerry Garcia,M,Neurologist,H001,Boston
+D1492,Martin Atkinson,M,Oncologist,H001,Boston
+D1493,David Davis,M,Cardiologist,H001,New York
+D1494,Nicole Lopez,F,Oncologist,H001,Boston
+D1495,Nichole Stevenson,F,General Physician,H001,New York
+D1496,Todd Garcia,M,Orthopedic,H002,New York
+D1497,Jennifer Norris,F,Pediatrician,H002,New York
+D1498,Jason Gonzalez,M,Orthopedic,H001,Boston
+D1499,Michelle Gross,F,General Physician,H001,Boston
+D1500,Jonathan Johnson,M,Oncologist,H002,Boston
+D1501,Kim Stokes,F,Oncologist,H001,New York
+D1502,Kerry Clark,M,General Physician,H002,Boston
+D1503,Joann Taylor,F,Cardiologist,H002,Boston
+D1504,Mike Chavez,M,Pediatrician,H002,Boston
+D1505,Rebecca Hudson,F,General Physician,H002,New York
+D1506,Renee Francis,F,Orthopedic,H001,New York
+D1507,Michelle Gonzalez,F,General Physician,H001,New York
+D1508,Andre Romero,M,Pediatrician,H001,New York
+D1509,Tonya Howell,F,Orthopedic,H002,New York
+D1510,Katie Lewis,F,Oncologist,H002,New York
+D1511,Angela Brown,F,Pediatrician,H001,New York
+D1512,Richard Peterson,M,Pediatrician,H002,Boston
+D1513,Jenna Hurley,F,Neurologist,H002,Boston
+D1514,Janice Jones,F,General Physician,H001,Boston
+D1515,Sarah Simpson,F,Cardiologist,H001,New York
+D1516,Jason Wright,M,Pediatrician,H002,New York
+D1517,Kyle Reed,M,General Physician,H002,New York
+D1518,Lisa Atkins,F,Neurologist,H001,New York
+D1519,Debra Anderson,F,Orthopedic,H001,New York
+D1520,Darrell Campbell,M,Cardiologist,H001,Boston
+D1521,Scott Conway,M,Orthopedic,H001,Boston
+D1522,Christine Thornton,F,Oncologist,H002,Boston
+D1523,Melissa Thomas,F,Neurologist,H001,Boston
+D1524,Virginia Forbes,F,Pediatrician,H002,Boston
+D1525,Andrew Ashley,M,Orthopedic,H001,Boston
+D1526,Donna Mills,F,Neurologist,H002,Boston
+D1527,Joshua Gray,M,Cardiologist,H002,New York
+D1528,Joshua Gibson,M,Cardiologist,H001,New York
+D1529,James Maxwell,M,General Physician,H002,Boston
+D1530,Keith Liu,M,Pediatrician,H002,New York
+D1531,Kristen Meadows,F,Cardiologist,H001,New York
+D1532,Michael Horton,M,Pediatrician,H002,Boston
+D1533,Andrew Johnson,M,Neurologist,H001,Boston
+D1534,Jessica Ryan,F,Pediatrician,H001,New York
+D1535,Sabrina Palmer,F,Pediatrician,H001,Boston
+D1536,Todd Douglas,M,Orthopedic,H001,New York
+D1537,Lisa Herrera,F,General Physician,H002,New York
+D1538,Joseph Berger,M,Orthopedic,H002,New York
+D1539,Jacob Gross,M,Orthopedic,H001,Boston
+D1540,Lisa Dawson,F,Cardiologist,H002,Boston
+D1541,Daniel Schwartz,M,Cardiologist,H001,Boston
+D1542,Gwendolyn Garcia,F,Oncologist,H002,New York
+D1543,Michael Beltran,M,Pediatrician,H002,New York
+D1544,Katie Flores,F,Oncologist,H001,Boston
+D1545,Ashley Adams,F,Orthopedic,H001,New York
+D1546,Sarah Moss,F,General Physician,H002,Boston
+D1547,Samantha Bauer,F,Neurologist,H001,New York
+D1548,Megan Flores,F,Pediatrician,H002,Boston
+D1549,Bailey Huffman DVM,F,General Physician,H001,New York
+D1550,Heather Watson,F,Cardiologist,H002,Boston
+D1551,Sean Wilson,M,Oncologist,H001,Boston
+D1552,Zachary Walker,M,Neurologist,H001,Boston
+D1553,Scott Wilson,M,Orthopedic,H002,New York
+D1554,Diana Russell,F,General Physician,H001,New York
+D1555,Stephen Green,M,Neurologist,H002,Boston
+D1556,Daniel Harris,M,Orthopedic,H001,Boston
+D1557,Christina Mclean,F,Orthopedic,H001,New York
+D1558,Jason Boyd,M,Pediatrician,H001,Boston
+D1559,Matthew Silva,M,Pediatrician,H001,New York
+D1560,Jacob Carlson,M,Pediatrician,H002,Boston
+D1561,Diana Gonzalez,F,Orthopedic,H001,New York
+D1562,Jonathan Tyler,M,Oncologist,H002,Boston
+D1563,Beth Sharp,F,Orthopedic,H002,New York
+D1564,Matthew Flores,M,Orthopedic,H001,New York
+D1565,Tony Vaughan,M,Oncologist,H002,Boston
+D1566,David Logan,M,Cardiologist,H002,Boston
+D1567,Jonathan Craig,M,Pediatrician,H001,Boston
+D1568,Tina Knight MD,F,General Physician,H002,New York
+D1569,Ian Moore,M,Oncologist,H002,New York
+D1570,Kimberly Petersen,F,Neurologist,H001,New York
+D1571,Jason Adams,M,Orthopedic,H001,Boston
+D1572,Chase Nelson,M,Pediatrician,H001,New York
+D1573,Tanya Hicks,F,Orthopedic,H002,New York
+D1574,Jason Haynes,M,Neurologist,H002,New York
+D1575,Kristina Baker,F,Pediatrician,H001,New York
+D1576,Omar Carr,M,Oncologist,H002,New York
+D1577,Diane Tanner,F,Neurologist,H002,Boston
+D1578,Larry Ortiz,M,Orthopedic,H001,New York
+D1579,Thomas Cherry,M,Cardiologist,H002,New York
+D1580,Nicholas Garcia,M,Neurologist,H001,New York
+D1581,Mandy Henry,F,Orthopedic,H002,New York
+D1582,Adrienne Reed,F,Oncologist,H001,New York
+D1583,Mary Bennett,F,Orthopedic,H001,Boston
+D1584,Colleen Parker,F,Orthopedic,H001,New York
+D1585,Diana Lopez,F,General Physician,H001,New York
+D1586,Gregory Day,M,General Physician,H002,New York
+D1587,Mrs. Sarah Miles,F,General Physician,H002,New York
+D1588,Emily Hill,F,Neurologist,H001,Boston
+D1589,David Palmer,M,Cardiologist,H001,Boston
+D1590,Patricia Ortiz,F,Oncologist,H001,Boston
+D1591,James Newman,M,Pediatrician,H001,Boston
+D1592,Brittany Jones,F,Orthopedic,H002,New York
+D1593,Sarah Schultz,F,Pediatrician,H001,Boston
+D1594,Samuel Wilson,M,Neurologist,H001,New York
+D1595,Latoya Farmer,F,General Physician,H002,Boston
+D1596,David Foster,M,Orthopedic,H001,Boston
+D1597,Johnny Wolfe,M,Orthopedic,H002,Boston
+D1598,Cody Fletcher,M,Oncologist,H002,New York
+D1599,Jason Hall,M,Cardiologist,H002,Boston
+D1600,Chloe Jones,F,Cardiologist,H001,Boston
+D1601,William Peters,M,Orthopedic,H002,Boston
+D1602,Amy Contreras,F,Neurologist,H001,Boston
+D1603,Wendy Mahoney,F,Cardiologist,H001,Boston
+D1604,Christopher Barnes,M,Neurologist,H001,New York
+D1605,Kristie Buchanan,F,General Physician,H001,New York
+D1606,Eric Rojas,M,Oncologist,H001,New York
+D1607,Carol Burch,F,Orthopedic,H001,Boston
+D1608,Bethany Barton,F,Neurologist,H001,Boston
+D1609,Debra Grant,F,Neurologist,H002,Boston
+D1610,Lori Nelson,F,General Physician,H002,New York
+D1611,Daniel Flynn,M,Oncologist,H002,New York
+D1612,Joanna Griffin,F,Pediatrician,H001,New York
+D1613,Adam Wilkinson,M,Orthopedic,H001,New York
+D1614,Stephanie Roberts,F,Pediatrician,H001,New York
+D1615,Dana Rios,F,General Physician,H002,New York
+D1616,Rebecca Rogers,F,General Physician,H002,New York
+D1617,Melissa Alvarez,F,Oncologist,H001,Boston
+D1618,Matthew Johnson,M,Oncologist,H002,New York
+D1619,Melissa Graves,F,Pediatrician,H001,Boston
+D1620,Casey Cole,F,Neurologist,H002,Boston
+D1621,Tyler Lane,M,Pediatrician,H002,Boston
+D1622,Thomas Schwartz,M,General Physician,H002,New York
+D1623,Christopher Williams,M,Neurologist,H002,Boston
+D1624,Laurie Osborne,F,Oncologist,H001,New York
+D1625,David Welch,M,Neurologist,H001,Boston
+D1626,Edward Harris PhD,M,Neurologist,H001,Boston
+D1627,Mr. Mark Ortiz,M,Pediatrician,H001,New York
+D1628,Tyrone Wise,M,Neurologist,H002,Boston
+D1629,Marissa Ochoa,F,Neurologist,H001,Boston
+D1630,Daniel Lowe,M,Orthopedic,H002,Boston
+D1631,Justin Kennedy,M,Oncologist,H002,New York
+D1632,Jennifer Rodgers,F,Orthopedic,H001,New York
+D1633,Dana Rodriguez,F,Pediatrician,H002,New York
+D1634,Dr. Joy Smith,F,Neurologist,H002,New York
+D1635,Kevin Cline,M,General Physician,H002,New York
+D1636,Philip Richardson,M,Orthopedic,H002,Boston
+D1637,Carrie Bailey,F,Oncologist,H002,New York
+D1638,Heather Rose,F,General Physician,H001,Boston
+D1639,Tiffany Webster,F,Pediatrician,H001,New York
+D1640,Gregory Cross,M,Oncologist,H002,Boston
+D1641,Jennifer Martinez,F,Cardiologist,H002,New York
+D1642,Donald Miller,M,Oncologist,H002,Boston
+D1643,Samantha Kelly,F,General Physician,H001,New York
+D1644,Alicia Schwartz,F,Cardiologist,H001,New York
+D1645,Aimee Hall,F,Cardiologist,H002,New York
+D1646,Brittany King,F,Pediatrician,H001,Boston
+D1647,Thomas Bryant,M,General Physician,H002,Boston
+D1648,Patrick Hill,M,Oncologist,H001,Boston
+D1649,Michael Clark,M,Neurologist,H001,New York
+D1650,Autumn Long,F,Cardiologist,H002,Boston
+D1651,Tina Cordova,F,Cardiologist,H002,Boston
+D1652,Carol Jones,F,General Physician,H002,Boston
+D1653,Mary Taylor,F,Pediatrician,H002,Boston
+D1654,Timothy Garcia,M,General Physician,H001,Boston
+D1655,Linda James,F,Orthopedic,H002,Boston
+D1656,Theresa Sampson,F,Oncologist,H002,Boston
+D1657,Joseph Moreno,M,Orthopedic,H002,New York
+D1658,Charles Williamson,M,Pediatrician,H001,New York
+D1659,Jennifer Rodriguez,F,Neurologist,H001,New York
+D1660,Brandon Thompson,M,Pediatrician,H001,Boston
+D1661,Raymond Williams,M,General Physician,H001,New York
+D1662,Ellen Spencer,F,Pediatrician,H002,New York
+D1663,Dr. Ana Trevino,F,Cardiologist,H001,Boston
+D1664,Joel Jones,M,Cardiologist,H001,New York
+D1665,Daniel Perez,M,General Physician,H001,Boston
+D1666,Ronald Stone,M,Neurologist,H001,New York
+D1667,Phillip Molina,M,Orthopedic,H001,Boston
+D1668,Carl Hall,M,Pediatrician,H002,Boston
+D1669,Tammy Johnson,F,General Physician,H002,Boston
+D1670,Julie Martin,F,Orthopedic,H001,New York
+D1671,Timothy Ford,M,Oncologist,H002,Boston
+D1672,Claire Spears,F,Cardiologist,H002,New York
+D1673,Katie George,F,General Physician,H002,Boston
+D1674,Courtney Jennings,F,Neurologist,H002,New York
+D1675,Robert Young,M,Cardiologist,H001,New York
+D1676,Rachel Hamilton,F,Neurologist,H001,Boston
+D1677,Kevin Soto,M,General Physician,H002,New York
+D1678,Mrs. Sarah Young,F,Neurologist,H002,New York
+D1679,Candice Guerrero,F,Oncologist,H001,Boston
+D1680,Daniel Jackson,M,General Physician,H002,New York
+D1681,Andrew Erickson,M,Neurologist,H002,New York
+D1682,Joseph Coffey,M,Pediatrician,H001,Boston
+D1683,Thomas Wall,M,General Physician,H001,New York
+D1684,Michael Lewis,M,General Physician,H002,New York
+D1685,Stephanie Henderson,F,General Physician,H002,New York
+D1686,Joseph Thomas,M,Neurologist,H002,Boston
+D1687,Jessica Martinez,F,Oncologist,H002,Boston
+D1688,Kathryn Wood,F,Neurologist,H002,New York
+D1689,Gary Phelps,M,General Physician,H002,New York
+D1690,William Mendoza,M,General Physician,H001,New York
+D1691,Andrea Reed,F,Cardiologist,H001,Boston
+D1692,Debra Montoya,F,Pediatrician,H002,New York
+D1693,Lisa Stone,F,Cardiologist,H002,Boston
+D1694,Jonathan Mendez,M,Oncologist,H001,New York
+D1695,Jeffrey Kaufman,M,Cardiologist,H002,Boston
+D1696,Jared Mccoy,M,Orthopedic,H001,Boston
+D1697,Dr. Stephen Foster,M,General Physician,H001,Boston
+D1698,Monica Benton,F,General Physician,H001,New York
+D1699,Adam Chavez,M,Orthopedic,H001,Boston
+D1700,Chloe Allen,F,Pediatrician,H002,Boston
+D1701,Melissa Howard,F,Pediatrician,H002,New York
+D1702,Christine Hughes,F,Pediatrician,H002,Boston
+D1703,Michael Clark,M,Cardiologist,H002,New York
+D1704,Edward Conner,M,General Physician,H001,Boston
+D1705,Jerry Murray DDS,M,General Physician,H002,New York
+D1706,Patricia Lee,F,Cardiologist,H001,New York
+D1707,April Mann,F,Oncologist,H001,New York
+D1708,Robert Hawkins,M,Neurologist,H002,Boston
+D1709,Brian Brewer,M,Orthopedic,H001,Boston
+D1710,Erica Arroyo,F,Pediatrician,H001,Boston
+D1711,Brenda Lucas,F,Neurologist,H002,New York
+D1712,Bryan Moore,M,Neurologist,H001,New York
+D1713,Michael Pham,M,Pediatrician,H002,New York
+D1714,Casey Jennings,F,Orthopedic,H002,New York
+D1715,William Williams,M,Pediatrician,H001,Boston
+D1716,Amy Campbell,F,Orthopedic,H002,New York
+D1717,Maxwell Pineda,M,Cardiologist,H002,Boston
+D1718,Gary Ramos,M,Pediatrician,H001,Boston
+D1719,James Johns,M,Cardiologist,H001,New York
+D1720,Allison Garza,F,General Physician,H002,New York
+D1721,Mary Sullivan,F,General Physician,H001,New York
+D1722,Holly Morgan,F,Oncologist,H001,New York
+D1723,Thomas Parsons,M,Orthopedic,H001,Boston
+D1724,Doris Hays,F,Oncologist,H002,Boston
+D1725,Erica Hamilton DDS,F,Neurologist,H001,New York
+D1726,Michael Caldwell,M,Orthopedic,H002,New York
+D1727,Jack Robinson,M,General Physician,H001,Boston
+D1728,Melissa Gibson,F,General Physician,H001,Boston
+D1729,Aaron Stewart,M,Orthopedic,H001,New York
+D1730,Emily Lewis,F,Neurologist,H002,Boston
+D1731,Samantha Ellis,F,Oncologist,H001,Boston
+D1732,James Robertson,M,Cardiologist,H001,New York
+D1733,Angela Blair,F,General Physician,H001,New York
+D1734,Amy Stone,F,Orthopedic,H001,New York
+D1735,David Jordan,M,Orthopedic,H002,New York
+D1736,Theresa Thomas,F,Oncologist,H002,New York
+D1737,Sally King,F,Neurologist,H001,New York
+D1738,Rachel Larson,F,Neurologist,H002,New York
+D1739,Derek Cobb,M,Oncologist,H002,Boston
+D1740,Martin Cox,M,Oncologist,H002,New York
+D1741,Fernando Rogers,M,Orthopedic,H001,New York
+D1742,Kristi Adams,F,Cardiologist,H002,New York
+D1743,Daniel Kelly,M,Neurologist,H001,Boston
+D1744,Jennifer Reed,F,Cardiologist,H001,New York
+D1745,Robert Thomas,M,Neurologist,H002,New York
+D1746,Mary Mcmillan,F,General Physician,H001,New York
+D1747,Dylan Wilson,M,Orthopedic,H001,New York
+D1748,Clifford Kelly,M,Cardiologist,H001,Boston
+D1749,Eric Moore,M,General Physician,H001,New York
+D1750,Charles Mcfarland,M,Cardiologist,H001,Boston
+D1751,Jesse Foster,M,Pediatrician,H001,Boston
+D1752,Daniel Church,M,Neurologist,H002,New York
+D1753,Mary Thompson,F,General Physician,H001,Boston
+D1754,Rhonda Campbell,F,Cardiologist,H002,Boston
+D1755,Harry Haas,M,Cardiologist,H002,Boston
+D1756,Colleen Gutierrez,F,Neurologist,H002,New York
+D1757,Alan White,M,General Physician,H002,Boston
+D1758,Ronald Green Jr.,M,Orthopedic,H002,Boston
+D1759,Michael Mendoza,M,General Physician,H002,Boston
+D1760,Joe Day,M,Cardiologist,H002,New York
+D1761,Daniel Colon,M,Cardiologist,H002,New York
+D1762,Brandon Lyons,M,Neurologist,H001,Boston
+D1763,Dawn Brown,F,Neurologist,H002,Boston
+D1764,Jeffrey Roberts,M,Cardiologist,H002,New York
+D1765,Elizabeth Ball,F,Pediatrician,H002,Boston
+D1766,Justin Murray,M,Cardiologist,H002,Boston
+D1767,Alison Grant,F,Oncologist,H001,Boston
+D1768,Andre Hall,M,Oncologist,H001,Boston
+D1769,Douglas Jones,M,Cardiologist,H001,Boston
+D1770,Tracy Powell,F,Pediatrician,H002,New York
+D1771,Caitlin Hale,F,Cardiologist,H001,Boston
+D1772,George Johnson,M,Pediatrician,H001,New York
+D1773,Robert Jones,M,Orthopedic,H001,Boston
+D1774,Michael Prince,M,Oncologist,H002,New York
+D1775,Savannah Young,F,Oncologist,H002,Boston
+D1776,Laura Hall,F,Cardiologist,H002,Boston
+D1777,Keith Murray,M,Orthopedic,H002,Boston
+D1778,Mackenzie Santos,F,Orthopedic,H001,New York
+D1779,Heidi Bennett,F,Oncologist,H002,Boston
+D1780,Steven Camacho,M,Orthopedic,H002,Boston
+D1781,Kimberly Parker,F,Pediatrician,H002,Boston
+D1782,Rachel Kelley,F,Oncologist,H001,Boston
+D1783,Samantha Hodge,F,Neurologist,H002,New York
+D1784,Taylor Zimmerman,F,Pediatrician,H001,New York
+D1785,Gabriel Smith,M,Oncologist,H001,New York
+D1786,Craig Mitchell,M,Orthopedic,H002,Boston
+D1787,Jenna Gonzalez,F,Orthopedic,H002,New York
+D1788,Kelly Irwin,F,Pediatrician,H002,New York
+D1789,Mary Rodriguez,F,Oncologist,H001,Boston
+D1790,Joshua Stewart,M,Cardiologist,H002,New York
+D1791,Megan Gilbert,F,Neurologist,H002,New York
+D1792,Ashley Ellis,F,Pediatrician,H002,Boston
+D1793,Jeffery Hernandez,M,General Physician,H001,Boston
+D1794,Alexis Lyons MD,F,General Physician,H002,New York
+D1795,Kaitlyn Butler DDS,F,Oncologist,H002,New York
+D1796,Tara Johnson,F,Cardiologist,H001,New York
+D1797,Chelsea Moore,F,General Physician,H002,Boston
+D1798,Ricardo Hunt,M,General Physician,H001,New York
+D1799,Cassandra Miller,F,General Physician,H002,Boston
+D1800,Timothy Richardson,M,Neurologist,H002,New York
+D1801,Antonio Keller,M,Orthopedic,H002,Boston
+D1802,Mrs. Heather Thomas,F,Cardiologist,H001,New York
+D1803,Theresa Davis,F,Oncologist,H001,Boston
+D1804,Amber Brown,F,Neurologist,H001,Boston
+D1805,Charles Harris,M,Oncologist,H002,New York
+D1806,Eric Wade,M,General Physician,H002,New York
+D1807,Maria Sims,F,Pediatrician,H002,New York
+D1808,Dylan Simpson,M,Oncologist,H001,Boston
+D1809,Catherine Reeves,F,Neurologist,H002,Boston
+D1810,Donna Jennings,F,Oncologist,H001,Boston
+D1811,Zachary Parker,M,Orthopedic,H001,Boston
+D1812,Adam Taylor,M,Cardiologist,H002,Boston
+D1813,Melissa Miller,F,General Physician,H002,Boston
+D1814,Heather James,F,Neurologist,H002,Boston
+D1815,Paula Watkins,F,Pediatrician,H001,New York
+D1816,Sarah Harris,F,Orthopedic,H002,Boston
+D1817,James Taylor,M,Oncologist,H001,Boston
+D1818,Raymond Reeves,M,Cardiologist,H002,Boston
+D1819,Deborah Lewis,F,Neurologist,H002,Boston
+D1820,Joe Mccann,M,Cardiologist,H001,New York
+D1821,Herbert Johnson,M,Orthopedic,H001,Boston
+D1822,Jennifer Weber,F,Oncologist,H001,New York
+D1823,Sheila Gardner,F,Oncologist,H002,Boston
+D1824,Mary Harmon PhD,F,Pediatrician,H001,New York
+D1825,Mr. George Robinson,M,General Physician,H002,Boston
+D1826,Rachael Erickson,F,Pediatrician,H002,Boston
+D1827,Nancy Hill,F,Cardiologist,H002,New York
+D1828,Charles Cox,M,Cardiologist,H001,New York
+D1829,Richard Donovan,M,Neurologist,H002,New York
+D1830,Mrs. Amanda Roman,F,Neurologist,H001,New York
+D1831,Melissa Hines,F,Neurologist,H001,New York
+D1832,Bryan Spencer,M,Pediatrician,H002,Boston
+D1833,Kaitlin Allen,F,Oncologist,H002,New York
+D1834,Gregory Caldwell,M,Oncologist,H002,New York
+D1835,Adam Holden,M,Cardiologist,H002,New York
+D1836,Michelle Solomon,F,General Physician,H002,Boston
+D1837,Christopher Dominguez,M,Pediatrician,H002,Boston
+D1838,Nathan Stark,M,Neurologist,H002,New York
+D1839,Elizabeth White,F,Cardiologist,H002,Boston
+D1840,Douglas Walker,M,Pediatrician,H002,New York
+D1841,Jeffrey Gutierrez III,M,Neurologist,H001,Boston
+D1842,Sandra Rogers,F,Orthopedic,H002,Boston
+D1843,Jamie Kent,F,General Physician,H001,New York
+D1844,Sabrina Ewing,F,Cardiologist,H002,New York
+D1845,Chelsea Goodman,F,Cardiologist,H002,New York
+D1846,Richard Watson,M,Neurologist,H001,Boston
+D1847,Jennifer Burns,F,General Physician,H002,Boston
+D1848,Patrick Martinez,M,Orthopedic,H002,Boston
+D1849,Joseph Ford,M,Neurologist,H001,New York
+D1850,Amy Sherman,F,Cardiologist,H002,New York
+D1851,John Jacobson,M,Oncologist,H002,Boston
+D1852,Charlene Meadows,F,General Physician,H001,New York
+D1853,Timothy Black,M,Orthopedic,H001,New York
+D1854,Jill Gamble,F,General Physician,H001,New York
+D1855,John Harris,M,Neurologist,H001,Boston
+D1856,Michael Gutierrez,M,Neurologist,H002,Boston
+D1857,Marc Anderson,M,Orthopedic,H001,Boston
+D1858,Jason Costa,M,Pediatrician,H001,Boston
+D1859,Melissa Boyer,F,Pediatrician,H001,Boston
+D1860,Darlene Conner DVM,F,Cardiologist,H001,New York
+D1861,Christopher Fletcher,M,Oncologist,H001,New York
+D1862,Omar Moreno,M,General Physician,H001,New York
+D1863,Diana Zuniga,F,Cardiologist,H001,New York
+D1864,Joshua Terry,M,Neurologist,H002,Boston
+D1865,Steven Brown,M,General Physician,H002,Boston
+D1866,Brian Randall,M,Pediatrician,H001,New York
+D1867,Rachel Mckee,F,Oncologist,H002,Boston
+D1868,Greg Stewart,M,Orthopedic,H002,Boston
+D1869,Christopher Collier DDS,M,Oncologist,H002,Boston
+D1870,Carmen Swanson,F,Orthopedic,H002,New York
+D1871,James Smith,M,Neurologist,H002,New York
+D1872,Michael Henry,M,Orthopedic,H001,New York
+D1873,Sean Kemp,M,Oncologist,H002,Boston
+D1874,Gregory Ingram,M,Orthopedic,H002,Boston
+D1875,Ebony Ruiz,F,Pediatrician,H001,Boston
+D1876,Adam Solis,M,Cardiologist,H001,New York
+D1877,Patricia Obrien,F,Oncologist,H001,Boston
+D1878,Chelsea Harper,F,Oncologist,H002,New York
+D1879,William Thompson,M,Cardiologist,H001,New York
+D1880,Christopher Cruz,M,Orthopedic,H001,Boston
+D1881,Mr. Jesse Nguyen,M,Pediatrician,H002,Boston
+D1882,John Anderson,M,Oncologist,H002,Boston
+D1883,Lisa Patton,F,General Physician,H002,New York
+D1884,Shelia Kelley,F,Oncologist,H002,Boston
+D1885,Nicole Graham,F,Orthopedic,H002,Boston
+D1886,Kevin Carter,M,Cardiologist,H002,Boston
+D1887,Shannon Mcdaniel,F,Neurologist,H001,Boston
+D1888,Megan Harris,F,Pediatrician,H001,Boston
+D1889,Jose Jefferson,M,Oncologist,H002,Boston
+D1890,Michelle Wilkerson,F,Neurologist,H001,New York
+D1891,Paul Houston,M,General Physician,H001,Boston
+D1892,Marissa Oconnell,F,Pediatrician,H002,New York
+D1893,Jeffrey Davis,M,Pediatrician,H002,Boston
+D1894,Michelle Williams MD,F,Cardiologist,H002,Boston
+D1895,Stephanie Hall,F,Neurologist,H001,Boston
+D1896,Stacy Jackson,F,Pediatrician,H002,New York
+D1897,Stephanie Chen,F,Cardiologist,H001,Boston
+D1898,Maria Cooper,F,Pediatrician,H001,New York
+D1899,Kristina Smith,F,Neurologist,H002,Boston
+D1900,Timothy Williams,M,Neurologist,H001,Boston
+D1901,Amanda Diaz,F,Cardiologist,H001,New York
+D1902,Katherine Robinson,F,Neurologist,H002,Boston
+D1903,Margaret Webb,F,Oncologist,H001,New York
+D1904,Katherine Diaz,F,Orthopedic,H002,New York
+D1905,William Bowen,M,Oncologist,H001,Boston
+D1906,James Moore,M,General Physician,H001,Boston
+D1907,Erica Hicks,F,Cardiologist,H002,Boston
+D1908,Andrea Garcia,F,Oncologist,H001,Boston
+D1909,Jean Williams,F,Pediatrician,H002,New York
+D1910,Robert Giles,M,Orthopedic,H002,Boston
+D1911,Michael Myers,M,Orthopedic,H001,Boston
+D1912,Andrew Small,M,Pediatrician,H002,New York
+D1913,Amy Riddle,F,Cardiologist,H002,New York
+D1914,Elizabeth Hoffman,F,Cardiologist,H002,New York
+D1915,Thomas Jimenez,M,Orthopedic,H001,Boston
+D1916,Debbie Smith,F,Pediatrician,H001,New York
+D1917,Samuel Allen,M,Orthopedic,H001,New York
+D1918,Jose White,M,Cardiologist,H002,Boston
+D1919,Haley Garcia,F,Pediatrician,H002,New York
+D1920,Dennis Madden,M,Cardiologist,H001,New York
+D1921,Samantha Richard,F,Neurologist,H002,Boston
+D1922,Jeffery Zuniga,M,General Physician,H001,Boston
+D1923,Erica Aguilar,F,Orthopedic,H001,Boston
+D1924,James Reese,M,Neurologist,H001,New York
+D1925,Daniel Durham DDS,M,Oncologist,H002,New York
+D1926,Eric Jackson,M,Oncologist,H001,New York
+D1927,Andrew Anderson,M,General Physician,H001,New York
+D1928,Christopher Ramos,M,General Physician,H001,Boston
+D1929,Samantha Horn,F,Cardiologist,H001,Boston
+D1930,Robert Johnson,M,Neurologist,H001,Boston
+D1931,Melissa Davis,F,Orthopedic,H002,Boston
+D1932,Makayla Williams,F,Orthopedic,H002,New York
+D1933,Crystal Garcia,F,Oncologist,H001,Boston
+D1934,Edwin Maxwell,M,General Physician,H002,Boston
+D1935,Melissa James,F,Pediatrician,H001,Boston
+D1936,Jonathan Miles,M,Neurologist,H002,New York
+D1937,Erica Davis,F,Pediatrician,H002,New York
+D1938,Shannon Lopez,F,Orthopedic,H002,Boston
+D1939,Matthew Barr,M,Pediatrician,H001,New York
+D1940,Reginald Mills,M,General Physician,H001,New York
+D1941,Amber Davis,F,Neurologist,H002,New York
+D1942,William Terrell,M,General Physician,H002,Boston
+D1943,Douglas Morales,M,Cardiologist,H002,New York
+D1944,William Odom,M,Neurologist,H001,New York
+D1945,Victor Rose,M,Oncologist,H002,New York
+D1946,Scott Sanchez,M,General Physician,H001,New York
+D1947,Dennis Duran,M,Pediatrician,H001,Boston
+D1948,Ronald Prince,M,Oncologist,H002,Boston
+D1949,Ann Hodges,F,Pediatrician,H001,Boston
+D1950,Zachary Miller,M,Cardiologist,H002,Boston
+D1951,Natasha Martin,F,Oncologist,H002,New York
+D1952,Angel Mcdonald,M,Cardiologist,H001,Boston
+D1953,Brian Lawson,M,Neurologist,H002,New York
+D1954,Jack Smith,M,Oncologist,H002,New York
+D1955,Jennifer Castillo,F,Orthopedic,H002,New York
+D1956,Casey Perez,F,Pediatrician,H002,New York
+D1957,Michael Webster,M,Cardiologist,H002,New York
+D1958,Marissa Foster,F,General Physician,H001,Boston
+D1959,Steven Blair,M,Orthopedic,H002,New York
+D1960,Amanda Foster,F,Orthopedic,H001,Boston
+D1961,Michael Rodriguez,M,Oncologist,H001,New York
+D1962,Stephanie Kim,F,Orthopedic,H002,Boston
+D1963,Jeffrey Bell,M,General Physician,H002,Boston
+D1964,David Valdez,M,Neurologist,H001,Boston
+D1965,Kenneth Walker,M,Pediatrician,H001,New York
+D1966,Miranda Davis,F,Oncologist,H001,New York
+D1967,John Harris,M,Cardiologist,H002,New York
+D1968,Patricia Burns,F,Orthopedic,H001,Boston
+D1969,Dustin Hurst,M,Orthopedic,H002,New York
+D1970,Steven Smith,M,Orthopedic,H002,Boston
+D1971,Laura Brown,F,Oncologist,H001,Boston
+D1972,Kimberly Barajas,F,General Physician,H002,New York
+D1973,Molly Holt,F,Orthopedic,H002,New York
+D1974,Abigail Roman,F,Cardiologist,H001,New York
+D1975,Gloria Wilson,F,General Physician,H002,Boston
+D1976,James Patton,M,General Physician,H002,Boston
+D1977,Kyle Scott,M,Neurologist,H001,Boston
+D1978,Samantha Williams,F,Orthopedic,H001,Boston
+D1979,Lynn Anderson,F,Neurologist,H001,New York
+D1980,Crystal Arias,F,Oncologist,H002,Boston
+D1981,Marissa Campbell,F,General Physician,H002,New York
+D1982,Brittany Rodriguez,F,Orthopedic,H002,New York
+D1983,David Phillips,M,Pediatrician,H001,Boston
+D1984,Kayla Hart,F,Oncologist,H002,Boston
+D1985,John Herman,M,Orthopedic,H002,New York
+D1986,James Velazquez,M,Pediatrician,H001,Boston
+D1987,Debra Miller,F,Cardiologist,H002,Boston
+D1988,Ryan Dunn,M,Oncologist,H002,New York
+D1989,Richard Anderson,M,Neurologist,H001,Boston
+D1990,Kimberly Cook,F,General Physician,H001,Boston
+D1991,Brian Lopez,M,General Physician,H002,New York
+D1992,Jordan Cooke,M,Orthopedic,H001,Boston
+D1993,Joshua Gonzalez,M,Neurologist,H002,New York
+D1994,Anna Boyle,F,Pediatrician,H002,New York
+D1995,Michelle Knight,F,Orthopedic,H002,New York
+D1996,Kristen Garcia,F,Pediatrician,H001,Boston
+D1997,James Forbes,M,Pediatrician,H002,Boston
+D1998,Tracy Hunt,F,Orthopedic,H002,Boston
+D1999,Amanda Yates,F,Cardiologist,H001,New York
